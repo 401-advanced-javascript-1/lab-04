@@ -17,6 +17,7 @@ This lab demonstrates use of file read, save, write processes using fs.
 
 ## Running the app
 - npm start will initialize the index.html
+- this will create a new loop.js file
 
 ## Tests
 - There are no tests for this lab
